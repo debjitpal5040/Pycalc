@@ -4,7 +4,7 @@ A Simple calculator made by using Python tkinter module.
 
 ## Pycalc-Mac
 
-<img src="https://user-images.githubusercontent.com/76846542/151742804-54626e47-6adb-4d79-be1f-f7d4aa8a1714.png"/> 
+<img width=450 src="https://user-images.githubusercontent.com/76846542/151742804-54626e47-6adb-4d79-be1f-f7d4aa8a1714.png"/> 
 
 <br>
 
