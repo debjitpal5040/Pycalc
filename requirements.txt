@@ -1,1 +1,1 @@
-tkmacosx >= 1.0.4 # available only for macOs 
+tkmacosx >= 1.0.4 #available only for macOs 
